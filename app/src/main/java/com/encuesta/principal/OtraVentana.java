@@ -16,5 +16,6 @@ public class OtraVentana extends AppCompatActivity {
         int c;
         int d;
         int e;
+        int f;
     }
 }
