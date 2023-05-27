@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Principal</string>
+    <string name="telefono">Introdusca su telefono</string>
+    <string name="edad">Introdusca su edad</string>
+    <string name="nombre">Introdusca su nombre</string>
+    <string name="lengu">Introdusca su lengu</string>
+</resources>
