@@ -12,5 +12,7 @@ public class OtraVentana extends AppCompatActivity {
         setContentView(R.layout.activity_otra_ventana);
         //comentario
         int a;
+        int b;
+        int c;
     }
 }
